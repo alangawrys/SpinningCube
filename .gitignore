@@ -1,0 +1,2 @@
+# Ignore CLion and CMake build files
+.idea/
